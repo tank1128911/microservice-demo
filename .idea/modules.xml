@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/oz-microservice-client-sayhello/oz-microservice-client-sayhello.iml" filepath="$PROJECT_DIR$/oz-microservice-client-sayhello/oz-microservice-client-sayhello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oz-microservice-eureka/oz-microservice-eureka.iml" filepath="$PROJECT_DIR$/oz-microservice-eureka/oz-microservice-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oz-microservice-feign/oz-microservice-feign.iml" filepath="$PROJECT_DIR$/oz-microservice-feign/oz-microservice-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oz-microservice-ribbon/oz-microservice-ribbon.iml" filepath="$PROJECT_DIR$/oz-microservice-ribbon/oz-microservice-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oz-microservice-zuul/oz-microservice-zuul.iml" filepath="$PROJECT_DIR$/oz-microservice-zuul/oz-microservice-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring微服务demo.iml" filepath="$PROJECT_DIR$/spring微服务demo.iml" />
+    </modules>
+  </component>
+</project>

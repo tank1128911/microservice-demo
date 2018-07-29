@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="oz-microservice-client-sayhello" />
+        <module name="oz-microservice-eureka" />
+        <module name="oz-microservice-feign" />
+        <module name="oz-microservice-ribbon" />
+        <module name="oz-microservice-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="oz-microservice-client-sayhello" target="1.8" />
+      <module name="oz-microservice-eureka" target="1.8" />
+      <module name="oz-microservice-feign" target="1.8" />
+      <module name="oz-microservice-ribbon" target="1.8" />
+      <module name="oz-microservice-zuul" target="1.8" />
+      <module name="spring微服务demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
